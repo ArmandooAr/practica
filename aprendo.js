@@ -1,3 +1,4 @@
+/*
 //Pide al usuario su nombre.
 //🔹 Pide su año de nacimiento.
 let anodenacimiento = prompt("¿Cuál es tu año de nacimiento?");
@@ -17,8 +18,30 @@ function MayoriaDeEdad ( mayordeedad) {
         return false;
     }   
  }
-//🔹 Muestra ese mensaje con console.log y con document.write.
-console.log(`Hola ${nombre}, tienes ${edad} años y eres ${mayordeedad ? "mayor de edad" : "menor de edad"}.`);
-document.write(`Hola ${nombre}, tienes ${edad} años y eres ${mayordeedad ? "mayor de edad" : "menor de edad"}.`); 
+*/
+/*
+let postivo = 0;
+let negativo = 0;
+let cero = 0;
+
+for (let i = 0; i <= 5; i++){
+    let numero = number(prompt("pon un numero"));
+    if ( number > 0){
+        console.log("El número es positivo.");
+        positivo++;
+    }else if (number < 0){
+        console.log("El número es negativo.");
+        negativo++;
+    }else {
+        console.log("El número es cero.");
+        cero++;
+    }
+    if ( number % 2 == 0) {
+        console.log("El número " + number + " es par.");
+    } else {
+        console.log("El número " + number + " es impar.");
+    }
+}
+*/
 
 
