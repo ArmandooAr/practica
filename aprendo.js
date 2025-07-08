@@ -44,4 +44,17 @@ for (let i = 0; i <= 5; i++){
 }
 */
 
+let cantidad = Number(prompt("ingresar el numero de tu calificacion"));
+let = muybien = 0;
+let = bien = 0;
+let = regular = 0;
+let = mal = 0;
+
+for (let i = 0; i < cantidad; i++)
+let calificacion = Number(prompt("ingresar tu calificacion"));
+if  (calificion <0 || calificacion > 10 || isNan(calificacion )){
+    console.log("tu calificacion necesita estar entre 0 y 10");
+    
+}
+
 
