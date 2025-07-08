@@ -1,12 +1,11 @@
-export function frontDoorResponse(line) {
-  return line[0];
-}
+/*
+// ejercisios platzi
+en el primer ejercicio nos piden multiplicar cada numero del array por 2, para esto usamos un .map para recorrer cada elemento del array
+despues cuando encuentra el numero lo pasa a num => num * 2, y devuelve un nuevo array con los numeros multiplicados por 2
 
-// Ejemplo de uso:
-console.log(frontDoorResponse('Stands so high'));    // Output: 'S'
-console.log(frontDoorResponse('Huge hooves too'));   // Output: 'H'
-
-export function frontDoorPassword (word) {
-  return word;
+export function multiplyElements(array) {
+   // Tu código aquí 👈
+   return array.map(num => num *2)
 }
-console.log(frontDoorPassword('word')); // Output: 'password'
+   */
+
