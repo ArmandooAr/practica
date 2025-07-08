@@ -9,3 +9,4 @@ export function multiplyElements(array) {
 }
    */
 
+// Test para el ejercicio anterior
