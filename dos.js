@@ -8,5 +8,10 @@ export function multiplyElements(array) {
    return array.map(num => num *2)
 }
    */
-
-// Test para el ejercicio anterior
+/*
+el ejercisio me pedia solo el nombre del array y el array me daba el nombre,edad y el ano en el que nacio porlo que volvi a usar map
+para recorer cada elmento del array y con (item => item.name) le digo que me devuelva solo el nombre de cada array
+export function getNames(array) {
+  return array.map(item => item.name);
+}
+  */
