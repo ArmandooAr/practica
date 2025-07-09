@@ -25,4 +25,13 @@ y el .price le indica exacata mente cuales numeros quiero
   }));
 }
 */
-lndoawndoawdoaw
+/*
+en este ejercisio solo nos pedia todas las palabras que tenga 4 letras entonces se uso el .filter para recorer y crear un nuevo array
+con solo las palbras que tengan 4 letras y con el word basica mente son las palabras y el .length me indica la longitud de los elementos
+en el array y con el >= hace que solo me que los elementos que tengan 4 letras
+export function filterByLength(array) {
+  // Tu código aquí 👈
+  return array.filter(word => word.length >= 4);
+}
+  */
+
