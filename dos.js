@@ -35,3 +35,13 @@ export function filterByLength(array) {
 }
   */
 
+/*
+en este nos pedira que solo se mandaran solo los que sean total y que sean mayor o igual a 100 y tambien que sean true 
+entonces lo que se hizo fue agregar un .filter para que recore el array y cree uno nuevo donde solo me den los arrays que cumplan
+con las caracteristicas que pedi ( que sean true y que sean mayor o igual a 100) 
+export function filterOrders(arrays) {
+  // Tu código aquí 👈
+  return arrays.filter(order => order.total >= 100 && order.delivered === true);
+}
+*/
+
