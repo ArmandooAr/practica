@@ -15,3 +15,14 @@ export function getNames(array) {
   return array.map(item => item.name);
 }
   */
+ /*
+ addNewAttr me permite agregar un nuevo atrivuto a cada elemenmto array que tenga, array.map lee los 2 arrays que tengo  
+taxes es el nuevo atrivuto que quiero agregar, math.floor me ayud a redondear el resulado de item.price * 0.19, item agarra las propiedades que se categorizen item como los numeros
+y el .price le indica exacata mente cuales numeros quiero
+  // Tu código aquí 👈
+  return array.map(item => ({
+    taxes: Math.floor(item.price * 0.19)
+  }));
+}
+*/
+lndoawndoawdoaw

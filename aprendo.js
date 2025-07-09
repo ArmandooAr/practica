@@ -43,6 +43,7 @@ for (let i = 0; i <= 5; i++){
     }
 }
 */
+
 /*
 let cantidad = Number(prompt("ingresar el numero de tu calificacion"));
 let = muybien = 0;
